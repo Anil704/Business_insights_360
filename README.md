@@ -74,11 +74,12 @@ As the database is MySQL in this project, we need to import the datasets from My
 ### Business Related Terms
 1. Gross Price
 2. COGS
-3. YTD
-4. YTG
-5. Pre-Invoice Deductions
-6. Post-Invoice Deductions
-7. Net Sales
-8. Net Profit
-9. Net Invoice Sales
-10. Gross Margin
+   https://app.powerbi.com/groups/me/reports/e42b5b45-e711-4075-bf7a-552206575a8c/ReportSection?experience=power-bi
+4. YTD
+5. YTG
+6. Pre-Invoice Deductions
+7. Post-Invoice Deductions
+8. Net Sales
+9. Net Profit
+10. Net Invoice Sales
+11. Gross Margin
